@@ -1,0 +1,50 @@
+ /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  
+ /* wallust template - colors-rofi */
+
+* {
+active-background: #4D5A4B;
+active-foreground: #CDD7D0;
+normal-background: #1A1918;
+normal-foreground: #CDD7D0;
+urgent-background: #718C79;
+urgent-foreground: #CDD7D0;
+
+alternate-active-background: #5A562D;
+alternate-active-foreground: #CDD7D0;
+alternate-normal-background: #1A1918;
+alternate-normal-foreground: #CDD7D0;
+alternate-urgent-background: #1A1918;
+alternate-urgent-foreground: #CDD7D0;
+
+selected-active-background: #718C79;
+selected-active-foreground: #CDD7D0;
+selected-normal-background: #718C79;
+selected-normal-foreground: #CDD7D0;
+selected-urgent-background: #4D5A4B;
+selected-urgent-foreground: #CDD7D0;
+
+background-color: #1A1918;
+background: rgba(0,0,0,0.7);
+foreground: #CDD7D0;
+border-color: #4D5A4B;
+
+color0: #41403E;
+color1: #16130D;
+color2: #1A1812;
+color3: #444122;
+color4: #394339;
+color5: #55695B;
+color6: #55695B;
+color7: #B0BDB3;
+color8: #7B847E;
+color9: #1D1911;
+color10: #222017;
+color11: #5A562D;
+color12: #4D5A4B;
+color13: #718C79;
+color14: #718C79;
+color15: #B0BDB3;
+
+
+}
+
